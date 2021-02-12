@@ -1,0 +1,17 @@
+{
+  "name": "cra-template-astra",
+  "version": "1.0.0",
+  "description": "CRA plus axios, redux,router, material-ui/core, jwt-decode",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux",
+    "router",
+    "axios",
+    "material-ui"
+  ],
+  "author": "Vlad Burlutskiy",
+  "license": "MIT"
+}
