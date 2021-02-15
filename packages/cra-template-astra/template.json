@@ -22,13 +22,6 @@
     "scripts": {
       "serve": "serve -s build",
       "build-and-serve": "npm run build && npm run serve"
-    },
-    "eslintConfig": {
-      "extends": [
-        "react-app",
-        "react-app/jest"
-      ],
-      "plugins": ["jsx-a11y"]
     }
   }
 }
