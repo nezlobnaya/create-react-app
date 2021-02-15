@@ -2,7 +2,6 @@
   "name": "cra-template-astra",
   "version": "1.0.0",
   "description": "cra template astra",
-  "main": "template.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
