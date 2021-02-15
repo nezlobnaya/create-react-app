@@ -1,21 +1,12 @@
 {
   "name": "cra-template-astra",
   "version": "1.0.0",
-  "description": "CRA plus axios, redux,router, material-ui/core, jwt-decode",
+  "description": "cra template astra",
   "main": "template.json",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/nezlobnaya/create-react-app/tree/master/packages/cra-template-astra"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "redux",
-    "router",
-    "axios",
-    "material-ui"
-  ],
+  "keywords": [],
   "author": "Vlad Burlutskiy",
-  "license": "MIT"
+  "license": "ISC"
 }
